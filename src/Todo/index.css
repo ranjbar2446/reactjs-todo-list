@@ -1,0 +1,7 @@
+li {
+    list-style-type: none;
+    padding: 1rem;
+}
+li > input {
+    margin: 0 2rem;
+}
